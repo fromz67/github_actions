@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: fromz776/dckr_pat_apHCO56nVMbXpYuVmD5XgCa_bg4:latest
+          tags: fromz776/github-actions:latest
