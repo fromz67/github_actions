@@ -42,4 +42,4 @@ jobs:
             
             sudo docker pull fromz776/github-actions:latest
             
-            sudo docker run -d --name my-app -p 80:8080 fromz776/github-actions:latest
+            sudo docker run -d --name my-app -p 80:80 fromz776/github-actions:latest
